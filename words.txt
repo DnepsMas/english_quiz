@@ -1,0 +1,552 @@
+academic - 大学教师；学术的（尤指与学院或大学教育有关）
+artificial intelligence (AI) - 人工智能
+automation - 自动化
+converge - 聚合在一起；会合，相交，汇聚
+diversify - 多元化；多样化；扩大经营范围
+electrical engineering - 电工；电气工程；电气工程学
+multidisciplinary - 含有多种专业（学科）的；（涉及）多职业的
+quantum computer - 量子计算机
+reframe - 用不同的方式看待；用新方式展示；用新方式考虑；重新装裱
+relevance - 相关性；实用性；意义
+silo - 独立机制；隔离或孤立
+simulation - 模拟，仿真；模拟的环境
+sustainable - 可持续的；不破坏环境的
+argumentative - 好表示不同（或相反）观点的；好争论的
+beanbag ashtray - 豆袋烟灰缸
+checkout - 结账；付款台
+clockwork - 机械；齿轮发条装置
+constraint - 限制；束缚；约束
+cripple - 严重损坏（削弱）；使跛；使瘸
+decipher - 理解；译解；识别；破译（密码）
+decode - 译解（电子信号）；解（码）
+destiny - 前途；命运
+electrical impulse - 电脉冲
+facilitate - 促进；使便利
+flawlessly - 完美地；无暇地
+font - 字体；字型
+horizontal - 水平的
+implementation - 实施；贯彻；执行
+imponderable - 难以估量（或回答）的；不可估量（或回答）的
+intern - 实习
+intrigued - 着迷的；感兴趣的
+inventory management - 库存管理；存货管理；存货控制
+malfunction - 故障，失灵；功能障碍
+mechanism - 方法；机制；机械装置；机件
+merchandising - 推销；展销
+mindset - 思维模式
+omnidirectional - 全向的
+optical sensor - 光学传感器
+original - 原先的；最早的；最初的
+perishable - 易腐烂的，易变质的
+pitcher - 投球手
+precision - 精确（性）；准确（性）
+propeller - 推进者；推动因素；螺旋桨，推进器
+prospector - 勘探者；探矿者
+prototype - 原型；雏形
+receipt - 收据；收条
+rigid - 不易改变的；刻板的
+rigorous - 严格的；缜密的；精确的
+serial number - 序列号
+specification - 规格；规范；明细单；说明书
+subliminal - 潜意识的；下意识的；潜在的
+supply chain - 供应链
+torrent - 迸发；连发；狂潮；湍流；急流
+Universal Product Code (UPC) - 通用产品代码；通用商品条码
+variable - 易变的；多变的
+vexing - 引起烦恼的；令人恼火的；伤脑筋的
+be grounded in / on sth. - 以···为根据
+couple sth. with sth. - 与···结合
+pick (sth.) up - 辨认；识别出；接收（信号、声音、图像等）
+play with sth. - 试验；摆弄；玩弄
+with clockwork precision / accuracy - 极精确地
+David Collins - 戴维・科林斯
+George Laurer - 乔治・劳雷尔
+KarTrak - 一种早期的铁路车辆自动识别系统
+Pennsylvania - 宾夕法尼亚州
+adhere - 黏附；附着
+anatomy - （人体的）解剖构造；解剖学
+appendage - 附肢，附器；附加物；附属物
+bionic - （因体内有电子装置）能力超人的
+coating - 涂层；外层；覆盖层
+cognitive - 认知的；认知过程的
+collagen - 胶原（蛋白）
+connective tissue - 结缔组织
+culture - 培养（细菌或细胞）
+cyborg - 电子人；半机械人
+dermis - 真皮
+digit - 手指；拇指；脚趾
+dispense - 施与，提供；分配；分发
+electric motor - 电动机
+empathy - 同情；同感；共鸣
+enforcer - （法规等的）执行者
+epidermis - 表皮
+flex - 弯曲（人体部位）
+functional - 正常运转的；为实用而设计的
+human dermal fibroblast - 人真皮成纤维细胞
+human keratinocyte - 人角质形成细胞
+hybrid - 混合体；杂种动物；杂交植物
+incubator - 孵化器；培养器；恒温箱
+instill - 逐渐灌输，逐步培养
+lifelike - 逼真的；生动的；栩栩如生的
+mold - 用模子制作；塑造；使成形；模具；铸模
+navigate - 导航，指引方向
+neuroscience - （研究大脑的）神经科学
+pantheon - 卓越人物；显耀事物
+portrayal - 描绘；描写；描述；扮演；表现
+silicone - 硅酮
+solution - 溶液
+strengthen - 加强；增强；巩固
+submerge - （使）潜入水中；浸没，淹没
+threaten - 威胁到；危害到；威胁；恐吓
+visibility - 能见度；能见距离
+for better or (for) worse - 不论好坏
+not least - 尤其，特别
+Georgia Institute of Technology - 佐治亚理工学院
+automated - 自动化的![1767509909388](image/words/1767509909388.png)![1767509910431](image/words/1767509910431.png)![1767509913279](image/words/1767509913279.png)
+bustling - 熙熙攘攘的；忙忙碌碌的
+collection - 一堆（东西）；一群（人）；收藏品；收集物
+courier - 信使，递送员；快递公司
+facial recognition - 面部识别；人脸识别
+governance - 统治；管理；统治方式；管理方法
+industrial - 工业的；产业的
+initiative - 倡议；新措施
+operation - 运转；运行；操作；手术
+replicate - 使复现；重复；复制
+resident - 居民；住户
+urbanization - 城市化；都市化
+in addition to sth. - 除···之外（还）
+air conditioner - 空调机；空调设备
+algorithm - 算法；计算程序
+antenna - 天线；触角；触须
+array - 大群；大堆；大量
+audacious - 敢于冒险的；大胆的
+avert - 防止；避免
+behold - 看见；注视
+blackout - 停电；断电
+civic - 市民的；公民的；城镇的；城市的
+cog - 无足轻重的人物，小人物；齿轮
+communiqué - 公报
+contraption - 奇异的机械；奇特的装置
+corporate - （大）公司的
+democratization - 民主化；大众化
+dispatch - 发送；派遣
+electromechanical - 电动机械的；机电的
+expansion - 扩大，增加，扩展
+flick - 啪地开动
+flurry - 一阵忙乱（或激动、关注）
+fringe - 边缘；外围
+grassroots - 草根的；基层民众；平民百姓
+grid - 电力网；输电网；网格；方格；格栅；格子
+hectic - 繁忙的；忙碌的
+iceberg - 冰山
+innards - 内部结构；内脏
+intervention - 干预；干涉
+killer app - 极具价值的功能或部分；受人欢迎的应用软件
+lurk - 暗藏；潜伏着；埋伏
+mainframe - 主机，大型机
+microbe - 微生物
+microprocessor - 微处理器
+miscreant - 恶棍；无赖；歹徒
+morph - （使）变形为；（使）变为
+mundane - 普通的；平凡的；平淡无奇的
+open-source - （软件）开放源代码的，提供源程序的
+optimize - 使优化；使完善
+predetermined - 预先决定（确定）的
+reading - 读数
+replumb - 重新铺设管道系统
+roam - 闲逛（于）；漫步（于）；漫游（于）
+seductive - 有诱惑力的；有魅力的
+sentient - 有知觉力的；有感觉力的
+shunt - 把···转至，调往
+sprout - 长出；发芽；抽芽；抽条；生长
+stitch - 缝；缝合；缝补；针脚；一针
+stroll - 散步；溜达
+stubby - 短粗的；矮壮的
+supplant - 取代；代替
+surveillance - 监视
+suspicious - 可疑的；引起怀疑的
+thermostat - 温度自动调节器；恒温器
+toil - 苦干；努力工作
+vigilant - 警觉的；警戒的；警惕的
+wield - 拥有，运用，行使，支配（权力等）
+work - （钟或机器的）活动机件，运转机构
+cut back (on sth.) - 减少；削减；缩减
+double down (on sth.) - 加倍努力；更加坚定地投入
+fan out - （一群人）成扇形散开
+fire (sth.) up - 开动（机器）；启动（计算机程序）
+set / put sth. in motion - 使开始运转，启动
+stitch (sth.) together - 拼凑起；组织起
+team up (with sb.) - 合作；（与···）结成一队
+the tip of the iceberg - 冰山一角
+aluminum - 铝
+analyst - 分析师；分析员
+binder - 黏结剂；活页夹
+cathode - 负极；阴极
+cement - 胶合剂；黏固剂
+chemical - 化学品；化学制品
+cobalt - 钴
+combust - 开始燃烧
+combustible - 可燃的；易燃的
+composition - 成分；构成；组合方式
+cylindrical cell - 圆柱形蓄电池
+dinosaur - 守旧落伍的人；过时落后的东西；恐龙
+disassembly - 拆卸；分解
+dismantle - 拆开，拆卸
+electric vehicle (EV) - 电动车辆
+electrolyte - 电解液
+emission - 排放物；散发物；排放；散发；射出
+extract - 取出；拔出；提取
+feat - 业绩；功绩；壮举
+fumes - 烟；烟雾；气
+graphite anode - 石墨阳极
+haystack - 干草垛
+hazardous - 危险的；不安全的
+hydrometallurgy - 湿法冶金（学）
+indestructible - 不可毁灭的；破坏不了的
+intricate - 错综复杂的；复杂精细的
+ion - 离子
+landfill - 废弃物填埋场；废弃物的填埋；填埋的废弃物
+lithium - 锂
+mandate - 命令；指令；权力；授权
+manganese - 锰
+massive - 巨大的；强大的；强烈的；极具破坏力的；大而重的；厚重的
+mixture - 混合物；混合体；混合料
+module - 组件；模块
+oxide - 氧化物
+phosphate - 磷酸盐
+polyurethane - 聚氨酯
+problematic - 有很多问题的；难对付的；成问题的
+propel - 推动；推进；驱动
+pyrometallurgy - 火法冶金（学）
+solvent - 溶剂；（尤指公司）有偿付能力的，付得起的
+sticky - 困难的；棘手的；黏性的；黏的；涂有黏胶的
+tailpipe - 排气管
+toxic - 有毒的；引起中毒的
+toxin - 毒素
+viable - 可以实施的；可望成功的
+a needle in a haystack - 草垛里的针；几乎不可能找到的东西
+phase (sth.) out - 逐步淘汰；分阶段停止使用
+scale (sth.) up - 增加；增大
+astronomical - 极其巨大的
+biomass - 生物质
+blast furnace - 高炉；鼓风炉
+crisscross - 构成十字形图案
+energy density - 能量密度
+flip side - 另一方面；相反的一面
+geothermal - 地热的；地温的
+hurdle - 障碍；困难
+hydroelectric - 水力发电的
+maximize - 使增加到最大限度；使最大化
+megajoule - 兆焦耳
+ponder - 仔细考虑；深思
+populated - 有人居住的
+quadrillion - 千万亿（10^15）
+radiate - 辐射；发射；流露，显示
+transition - 转变；过渡；变迁
+watt - 瓦（特）
+in principle - 理论上；从理论上讲
+ampere - 安培
+atomic bomb - 原子弹
+collision - （粒子间的）碰撞；碰撞事故
+compress - 压紧；压缩
+conventional - 传统的；常规的；普通的
+crowning - 最好的；至高无上的；登峰造极的
+deployment - 有效运用
+devastate - 严重破坏；彻底破坏；摧毁；使极度震惊；使伤心欲绝
+elusive - 难以实现的；无法实现的；难找到的；不常见的
+extraordinarily - 极其
+fission - （原子的）（核）裂变
+fizzle - 逐渐结束
+fuse - （使）（物理地）结合，融为一体
+fusion - 核聚变；热核反应
+helium - 氦
+hoist - 抬起，吊起
+ignite - 燃烧；点燃
+illuminate - 照射；照亮；照明
+inert gas - 惰性气体
+intricacy - 错综复杂；盘根错节；错综复杂的事物（或细节）
+magnetic confinement fusion - 磁约束聚变
+magnetic field - 磁场
+matter - 物质
+meltdown - 核反应堆堆芯熔毁
+minimal - 极小的；极少的；最小的；最少的
+multiplier - 乘数；倍数
+nucleus - （原子）核
+particularly - 特别；尤其
+plasma - 等离子体
+plutonium - 钚
+potent - 强有力的；有威力的
+quirk - （特有的）习惯，举动
+radioactive - 具有放射性的；有辐射性的
+reactor - 核反应堆
+repel - 排斥；相斥；驱逐；逐回；击退；抗御
+repulsion - （排）斥力；厌恶；反感
+runaway reaction - 失控反应
+semiconductor - 半导体
+shot - 尝试
+smidgen - 一点点；少量
+solenoid - 螺线管
+thermonuclear - 热核反应的；热核的
+tokamak - 托卡马克
+uncontrolled - 不受控制的
+uranium - 铀
+a long shot - 胜算不大的尝试
+a tall order - 很难实现的要求；奢求；很难完成的工作
+fall into sth. - 可以分为；能够分成
+heat up - （使）变热；（把···）加热
+in the making - 在发展中；在形成中；在制造中
+speed up - （使）加快速度
+Chernobyl - 切尔诺贝利核电站
+Huanliu-3 (HL-3) - 中国环流三号
+International Thermonuclear Experimental Reactor (ITER) - 国际热核聚变实验堆
+Lawrence Livermore National Laboratory (LLNL) - 劳伦斯・利弗莫尔国家实验室
+National Ignition Facility (NIF) - 国家点火装置
+critical - 极重要的；关键的；至关紧要的
+crust - 地壳
+enhanced geothermal system (EGS) - 增强型地热系统
+enthusiast - 热衷者；爱好者；热心的人
+expanse - 宽广的空间
+extraction - 取出；提炼；开采
+extraction well - 抽提井
+Fahrenheit - 华氏温度计的；华氏的
+feasibility - 可行性
+garner - 得到，收集
+generator - 发电机
+geological - 地质学的；地质的
+geothermal brine - 地热卤水
+glisten - 闪光；闪耀；闪亮
+heat pump - 热泵
+hydraulic fracturing - 水力压裂
+injection well - 注入井
+installation - 装置；设备；安装
+intermittent - 间歇的；断断续续的
+leverage - 借助已有的···实现新（或更好）的目标；借贷收购；信贷投机
+magnitude - 震级；巨大；庞大；重要性
+methodology - 方法
+mineral - 矿物；矿产
+niche - （产品）针对特定小群体的
+permeable - 可渗透的；可渗入的
+porous - 多孔的；透水的；透气的
+posit - 认为；假定
+protocol - 惯例；习惯做法；礼节；礼仪
+radiator - 辐射体；辐射源
+residential - 作住所用的
+robust - 强大的，稳固的；强健的；健壮的
+seep - 渗漏
+shale - 页岩
+shutter - （暂时或永久地）使停业，使关闭
+sizzle - 咝咝作响
+supercritical - 超临界的
+tectonic fault - 构造断层
+tonne - 公吨
+tremor - 轻微地震；小震；微震
+trickle - （液体）滴，淌
+untapped - 未开发的；未利用的
+variant - 变体；变化形式
+volcanic - 火山的；由火山作用引起的
+around / round the clock - 昼夜；夜以继日地；日夜不停地
+by / in leaps and bounds - 非常迅速；飞跃地；突飞猛进地；大量地
+in the works / pipeline - 在计划中；在筹备中
+owe it to oneself to do sth. - （认为）自己应该做
+ambitious - 宏大的，艰巨的；有抱负的；有雄心的；野心勃勃的
+conundrum - 难题；复杂的问题
+enact - 实行；实施；制定（法律）
+fantastic - 极好的
+Herculean - 艰巨的；费力的；需要决心的
+moonshot - （火箭、宇宙飞船等的）向月球发射
+negative - 小于零的，负的；坏的；有害的
+obscure - 费解的；模糊的；不清楚的；无名的；鲜为人知的；默默无闻的
+sink - 汇；壑
+tension - 矛盾；对立；紧张局势（或关系、状况）
+viral - （在网络上或用手机）广为传播的；病毒（性）的；病毒引起的
+wacky - 滑稽的；古怪的
+balance (sth.) out / up - 抵消；使平衡
+get away with sth. - 做（错事）而未被惩罚；做（坏事）而未被发觉
+go viral - （图片、视频、笑话等）迅速传播（尤指在网络或手机上）
+kick the can down the road - 逃避（或拖延）处理问题
+beige - 米黄色的；浅褐色的
+blaze - 闪耀；发强光；熊熊燃烧
+blink - 眨（眼睛）
+brownout - 局部暂时限制用电
+buzz - 发嗡嗡声；发蜂鸣声
+crouch - 蹲下；蹲伏；蜷缩
+devastation - 毁灭；极大的破坏
+diesel - 柴油
+dismay - 忧虑；失望；沮丧
+flush - 发红；脸红
+flustered - 慌乱的；紧张的
+heatwave - 热浪；酷热期
+hum - 持续低沉的噪音；嗡嗡声；发出连续低沉的声音
+humid - 潮湿的，湿润的
+immerse - 使浸入；（尤指）使浸没
+jug - （带柄及顶部有开口的）壶，罐
+kerosene - 煤油；火油
+mosquito - 蚊子
+murmur - 低声说
+palpable - 易于察觉的；可意识到的；明显的
+patio - 露台，平台
+pruney - 起皱的
+radiation - （热能或光能的）辐射；（尤指）核辐射
+sauna - 桑拿浴；蒸汽浴；桑拿房
+sensation - 感觉；知觉
+spine - 脊柱；脊椎
+stifling - 闷热的；热得令人窒息的
+stucco - 灰泥
+suppress - 抑制（生理过程）；平定；制止；镇压
+sweaty - 流汗的；出汗的；有汗味的
+tan - 棕黄色的；棕褐色的；晒成棕褐色的肤色
+tile - 瓦；瓦片；瓷砖；墙砖；地砖
+townspeople - 镇民；市民；市镇居民
+two-stroke engine - 二冲程发动机
+umber - 棕土色的；赭色的；棕土色，赭土色
+unbearable - 无法忍受的
+uninhabitable - 不宜居住的；无法居住的
+wail - 恸哭；号啕大哭
+wet-bulb temperature (WBT) - 湿球温度
+exert oneself - 用力；尽力；努力
+pile in - （尤指无组织地）蜂拥而进
+soak (sth.) up - 吸收，吸掉（液体）
+absorbent - 吸收剂；吸收物；易吸收（液体等）的
+alarmingly - 令人担忧地
+amine - 胺
+buoyant - 能浮起的
+buttress - 支持；支撑；给···以力量；扶壁；支墩
+civilization - 文明世界；文明（社会）
+compression - 压紧；压缩
+defense - 防御物；保护；防护
+direct air capture (DAC) - 直接空气捕获
+doomsday - 世界末日；灾难时刻
+dub - 称···为；将···冠以
+ecosystem - 生态系统
+entertain - 考虑；心存；怀着
+epic - 艰苦卓绝的；漫长而艰难的；史诗般的；鸿篇巨制的；壮丽的
+escalating - 逐步升级的；逐渐加剧的
+eschew - （有意地）回避，避开，避免
+imperative - 极重要的；紧急的；迫切的
+inhospitable - 难以居住的，条件恶劣的；不好客的；不殷勤待客的
+liquefaction - 液化（作用）
+liquefy - （使）液化
+logistical - 安排协调方面的；后勤的
+mitigate - 减轻；缓和
+onboard carbon capture and storage (OCCS) - 船载碳捕集与封存
+point source - 局部点污染源
+precipitate - 使突然降临；加速（坏事的发生）
+protruding - 突出的；伸出的；鼓出的；凸起的
+seabed - 海底；海床
+seagrass - 海草
+selectively - 有选择性地；严格筛选地
+sequestration - 隔离，封存；暂时查封
+simultaneously - 同时地
+spew - （使）喷出，涌出
+stabilize - （使）稳定，稳固
+strategic - 战略上的；战略上有用的；战略上重要的
+stuttering - 断断续续的
+trillion - 万亿；兆
+utilization - 利用
+whir - 嗡嗡地响；呼呼地响
+whopping - 极大的
+mop (sth.) up - 消灭（讨厌或危险的事物）；肃清
+on the drawing board - 在计划中；在准备阶段
+pull (sth.) off - 成功做成（困难或出乎意料的事）
+shore (sth.) up - 支撑（墙壁等）
+alloy - 合金
+Bakelite - 酚醛树脂；酚醛电木（胶木）
+brittle - 脆的；易碎的
+electrical cable - 电缆
+ivory - 象牙
+moldable - 可模塑的；可塑造的
+polymer - 聚合物
+scrape - （用小刀等）刮除
+secrete - （身体或植物器官）分泌
+shellac - 虫胶，紫胶
+spacesuit - 航天服；宇航服
+synthetic - 合成的；人造的
+go into sth. - 用在；用于
+American Chemical Society - 美国化学学会
+Bronze Age - 青铜时代
+Leo Baekeland - 利奥・贝克兰
+accomplishment - 成就；成绩
+assembly line - 生产线；装配线；流水线
+belatedly - 延误地；来迟地
+blacksmithing - 锻造；铸造
+bogus - 假的；伪造的
+catch - 隐藏的问题；暗藏的不利因素
+confirmation - 证实；确定；确认；批准
+debunk - 证明（思想或观念）错误
+decidedly - 肯定地；无疑地；明显地
+destructive - 毁灭性的；造成破坏的
+discreetly - 审慎地；谨慎地；小心地
+distribution - 分发；分配
+downright - 十足地，彻底地
+electromagnet - 电磁体；电磁铁
+glean - 费力地收集，四处搜集
+Higgs boson - 希格斯玻色子
+hype - （传媒的）大肆宣传，炒作
+laser ablation - 激光烧蚀
+megacity - 巨型城市（人口超过1,000万的城市）
+meld - （使）合并；（使）结合
+mind-bendingly - 令人费解地；难以想象地；使极度兴奋地
+MRI (magnetic resonance imaging) - 磁共振成像
+nitrogen - 氮
+proton - 质子
+publication - （书刊等的）出版，发行
+retract - 撤销；撤回；收回
+retrofit - 安装（新部件）；翻新改良
+short-lived - 短暂的
+superconducting cavity - 超导腔
+superconductivity - 超导（电）性
+superconductor - 超导体
+theoretically - 在理论上；从理论上说；按理说；按道理讲
+thrilling - 引人入胜的；令人激动的
+transmission - （动力或能量的）输送，传送
+underground pipe gallery - 地下管廊
+underway - 在进行中的
+vacuum chamber - 真空室
+wind turbine - 风力发电涡轮机
+working - 加工；制作；成形；工作方式，运行方式
+crop up - （尤指意外地）出现，发生
+hit on / upon sth. - 突然有个好主意；偶然想到妙点子
+Large Hadron Collider (LHC) - 大型强子对撞机
+University of Geneva - 日内瓦大学
+aerospace - 航空航天工业；宇航工业
+armor - 盔甲；（尤指护身的）铠甲
+attuned - 对···熟悉（适应）
+bendable - 可弯曲的
+bilayer graphene (BLG) - 双层石墨烯
+carbon fiber - 碳纤维
+categorize - 对···进行分类；把···归类
+commercialize - 使商品化；使商业化；使成为赚钱手段
+composite - 复合物；混合物；复合材料；合成的；复合的
+displace - 取代；替代
+electrode - 电极
+gate - （场效应晶体管的）栅极
+GPa (Gigapascal) - 吉帕（吉帕斯卡，压强单位）
+graphene - 石墨烯
+incorporate - 把···并入；包含
+incumbent - 现任者；在任者
+indium tin oxide (ITO) - 氧化铟锡
+Kevlar - 凯芙拉纤维
+liquid crystal display (LCD) - 液晶显示器
+molecule - 分子
+mustard - 符合要求；符合条件；芥末酱
+optoelectronics - 光电子学
+organic light-emitting diode (OLED) - 有机发光二极管
+outperform - 做得比···好；胜过
+pervasive - 到处存在的；到处弥漫着的；遍布的
+pivotal - 关键性的；核心的
+quantum bit - 量子比特
+radio wave - 无线电波
+specifically - 具体来说；确切地说；明确地；具体地
+stiffness - 劲度；刚硬
+structural steel - 结构钢；型钢
+subtle - 难以察觉（理解）的；微妙的
+tensile strength - 抗拉强度；抗张强度；拉伸强度
+touch screen - 触摸屏
+tout - 赞扬；吹捧
+transistor - 晶体管
+vest - 防护用背心；（内衣）背心，汗衫
+zero-gap semiconductor - 零带隙半导体
+be down to sb. / sth. - 是···的结果；归因于
+eye (sth.) up - 饶有兴趣地仔细看
+hands down - 轻易地；不费力地
+win out - 终于成功
